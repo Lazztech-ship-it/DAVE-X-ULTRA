@@ -12,7 +12,7 @@ const settings = {
   description: 'DAVEX-ULTRA - The Most Powerful WhatsApp Bot',
   channelLink: 'https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k',
   dev: '254104260236',
-  devgit: 'https://github.com/gifteddevsmd/DAVE-MD2',
+  devgit: 'https://github.com/Davex-254/DAVE-X-ULTRA',
   timezone: 'Africa/Nairobi',
 };
 
