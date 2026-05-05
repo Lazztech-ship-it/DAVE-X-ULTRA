@@ -25,7 +25,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Davex-254/DAVE-X-ULTRA" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/Davex-254/DAVE-X-ULTRA/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
       <td align="center"><a href="https://replit.com/github/Davex-254/DAVE-X-ULTRA" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a></td>
     </tr>
     <tr>
